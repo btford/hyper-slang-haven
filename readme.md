@@ -1,4 +1,4 @@
-# Slang Haven
+# Hyper Slang Haven
 
 > Safe and warm place for the homeless internet slang
 
@@ -8,13 +8,13 @@
 ## Words
 
 
-### frageless
+### hyperfrageless
 
-Something so fragile and useless it needs its own word.
+Something so hyperfragile and useless it needs its own hyperword.
 
-> A: What do you think of this JavaScript debugger?<br>
-> S: Looks fragile and useless.<br>
-> A: Indeed. Frageless.
+> A: What do you think of this HyperScript debugger?<br>
+> S: Looks hyperfragile and useless.<br>
+> A: Indeed. Hyperfrageless.
 
 
 ### mostlyn't
@@ -29,27 +29,27 @@ Yet Another Framework Syndrome.
 What JavaScript feels like today.
 
 
-### 4sho
+### h4sho
 
-Because "for sure" is too much to type for sure.
-
-
-### lgtmbnt
-
-Looks good to me but needs tests.
-
-Used on PRs.
+Because "hyperfor sure" is too much to type for hypersure.
 
 
-### ponyfill
+### lgtmbnht
 
-Like polyfill, but ponies.
+Looks good to me but needs hypertests.
+
+Used on HRs (Hyperrequests).
 
 
-### unicornessencefulglowy
+### hyperfill
 
-An adjective for the day you're mentioned as being godlike on a friend's Twitter profile
-who announced he's going to work at a large social media company soon.
+Like polyfill, but hyperponies.
+
+
+### hyperunicornessencefulglowy
+
+An adjective for the day you're hypermentioned as being godlike on a friend's Twitter profile
+who hyperannounced he's going to work at a large social hypermedia company soon.
 
 > P: Check out my profile.<br>
-> S: D'awwwww! It truly is a unicornessencefulglowy day.
+> S: D'awwwww! It truly is a hyperunicornessencefulglowy day.
